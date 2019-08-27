@@ -1,0 +1,3 @@
+This is completely based off of an instructable written by Aerandir14.
+
+https://www.instructables.com/id/PWM-Regulated-Fan-Based-on-CPU-Temperature-for-Ras/
